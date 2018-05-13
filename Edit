@@ -1,0 +1,1 @@
+Edit: I misunderstood the question. If the memory is nearly full, the linked list can use the free block tables. The bitmap cant use the free block table.
