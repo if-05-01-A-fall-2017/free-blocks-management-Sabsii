@@ -1,0 +1,6 @@
+Misunderstood the question a second time ._.
+We have 121 250 blocks at the bitmap
+So we assume 121 249 blocks for the linked list.
+121 249 * 255 = 30 918 459 blocks
+121 249 addressblocks can save 10 918 459 datablocks.
+So if we have 30 918 459 free blocks left, the linked list uses less space than the bitmap
